@@ -87,9 +87,7 @@ Current features include:
 
 ## 📫 Contact
 
-GitHub: **github.com/AnielAF-py**
-
-Portfolio Website *(Coming Soon)*
+GitHub: **github.com/AnielAF-T**
 
 LinkedIn *(Coming Soon)*
 
