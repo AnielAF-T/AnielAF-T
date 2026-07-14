@@ -12,8 +12,7 @@ My goal is to transform ideas into real-world projects, from the electronic hard
 
 ### 🤖 Hexapod Robot (ESP32-S3)
 
-My flagship project is a **18-DOF Hexapod Robot** controlled by an **ESP32-S3**, designed from scratch.
-
+"One of my flagship projects is an 18-DOF hexapod robot controlled by an ESP32-S3, designed completely from scratch."
 Current features include:
 
 - Real-time servo control
@@ -45,15 +44,19 @@ Current features include:
 ### Programming
 
 - Python
-- C++
+- C/C++
 - MATLAB
-- LaTeX
+- HTML
 
 ### Embedded Systems
 
-- ESP32
+- ESP32 all modules
 - Arduino
 - ATmega328P
+- Raspberry pi
+- STM32
+- Texas Instruments MSP432
+- FPGAs
 
 ### Engineering Tools
 
